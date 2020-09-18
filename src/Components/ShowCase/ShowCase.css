@@ -1,0 +1,26 @@
+.ShowCase{
+    padding-top: 100px;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+.ShowCase .place{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.ShowCase .place-item{
+    width: 250px;
+    position: relative;
+}
+
+.ShowCase .place-item img{
+    width: 100%;
+    height: 100%;
+}
+.ShowCase .place-item h2{
+    font-size: 30px;
+    text-transform: capitalize;
+    position: absolute;
+    top: 85%;
+    left: 10%;
+    color: #fff;
+}

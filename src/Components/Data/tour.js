@@ -1,0 +1,40 @@
+var tour = [
+    {
+        id:1,
+        title: "cox's bazar",
+        details:"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, consequuntur quo? Cumque illum nesciunt aperiam? Nostrum nihil impedit eaque delectus voluptate consequatur corporis magnam distinctio, ad praesentium minus ut rerum eveniet unde omnis, veritatis, soluta laboriosam architecto. Ipsum delectus quibusdam saepe! Magnam, praesentium odit enim aliquid ducimus velit corrupti debitis.",
+        HotelTitle: "light bright airy stylish apt&safe peaceful stay",
+        HotelStatus: "4 guests 2 bedrooms 2beds 2baths",
+        HotelDetails: "wif air conditioning kitchen",
+        HotelCancellation: "cancellation flexibility available",
+        HotelStar: "4.9(20) $34/night",
+        HotelPic:"Rectangle 26",
+        img:'Sajek',
+    },
+    {
+        id:2,
+        title: "sreemongul",
+        details:"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, consequuntur quo? Cumque illum nesciunt aperiam? Nostrum nihil impedit eaque delectus voluptate consequatur corporis magnam distinctio, ad praesentium minus ut rerum eveniet unde omnis, veritatis, soluta laboriosam architecto. Ipsum delectus quibusdam saepe! Magnam, praesentium odit enim aliquid ducimus velit corrupti debitis.",
+        HotelTitle: "light bright airy stylish apt&safe peaceful stay",
+        HotelStatus: "4 guests 2 bedrooms 2beds 2baths",
+        HotelDetails: "wif air conditioning kitchen",
+        HotelCancellation: "cancellation flexibility available",
+        HotelStar: "4.8(10) $52/night",
+        HotelPic:"Rectangle 27",
+        img:'Sreemongol',
+    },
+    {
+        id:3,
+        title: "sundorban",
+        details:"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, consequuntur quo? Cumque illum nesciunt aperiam? Nostrum nihil impedit eaque delectus voluptate consequatur corporis magnam distinctio, ad praesentium minus ut rerum eveniet unde omnis, veritatis, soluta laboriosam architecto. Ipsum delectus quibusdam saepe! Magnam, praesentium odit enim aliquid ducimus velit corrupti debitis.",
+        HotelTitle: "light bright airy stylish apt&safe peaceful stay",
+        HotelStatus: "4 guests 2 bedrooms 2beds 2baths",
+        HotelDetails: "wif air conditioning kitchen",
+        HotelCancellation: "cancellation flexibility available",
+        HotelStar: "4.9(25) $44/night",
+        HotelPic:"Rectangle 28",
+        img:'sundorbon',
+    },
+];
+
+export default tour;

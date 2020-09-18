@@ -1,0 +1,47 @@
+.booking{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 20px;
+}
+.booking h1{
+    font-size: 50px;
+    text-transform: uppercase;
+    font-family: serif;
+}
+
+.booking .form .form-group{
+    width: 90%;
+    margin: auto;
+    display: block;
+}
+.booking .form .form-group label{
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+.booking .form .form-group input{
+    width: 100%;
+    padding: 10px;
+    background: #dddd;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    text-transform: capitalize;
+    margin-top: 10px;
+}
+.booking .form .form-group.from-to{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 10px;
+}
+.booking .form .form-group input[type="submit"]{
+    margin-top: 30px;
+}
+.booking .form .form-group input[type="submit"]:hover{
+    background: #F9A51A;
+    cursor: pointer;
+}
